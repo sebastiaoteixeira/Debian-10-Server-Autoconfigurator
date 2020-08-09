@@ -5,17 +5,23 @@ Some basic server software will be installed.
 
 ## Instalation
 
+Do an update:
+
 ```
 sudo apt-get update
 ```
 
 <br>
 
+Install python 3.7:
+
 ```
 sudo apt install python
 ```
 
-<br>
+## Running
+
+Run script:<br>
 
 ```
 python script.py
