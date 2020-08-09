@@ -13,7 +13,7 @@ sudo apt-get update
 
 <br>
 
-Install python 3.7:
+Install python:
 
 ```
 sudo apt install python
